@@ -48,6 +48,8 @@ border-
 .table tr :hover {
     background-color: aqua;
 }
-
+#change{
+    text-align: center;
+}
 
 
